@@ -1,0 +1,15 @@
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_funcionario\bin\Debug\net7.0\ex_funcionario.exe
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_funcionario\bin\Debug\net7.0\ex_funcionario.deps.json
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_funcionario\bin\Debug\net7.0\ex_funcionario.runtimeconfig.json
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_funcionario\bin\Debug\net7.0\ex_funcionario.dll
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_funcionario\bin\Debug\net7.0\ex_funcionario.pdb
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_funcionario\obj\Debug\net7.0\ex_funcionario.csproj.AssemblyReference.cache
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_funcionario\obj\Debug\net7.0\ex_funcionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_funcionario\obj\Debug\net7.0\ex_funcionario.AssemblyInfoInputs.cache
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_funcionario\obj\Debug\net7.0\ex_funcionario.AssemblyInfo.cs
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_funcionario\obj\Debug\net7.0\ex_funcionario.csproj.CoreCompileInputs.cache
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_funcionario\obj\Debug\net7.0\ex_funcionario.dll
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_funcionario\obj\Debug\net7.0\refint\ex_funcionario.dll
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_funcionario\obj\Debug\net7.0\ex_funcionario.pdb
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_funcionario\obj\Debug\net7.0\ex_funcionario.genruntimeconfig.cache
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_funcionario\obj\Debug\net7.0\ref\ex_funcionario.dll
